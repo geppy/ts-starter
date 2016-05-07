@@ -1,0 +1,19 @@
+{
+  "name": "ts-starter",
+  "version": "1.0.0",
+  "description": "Basic kit for getting started with TS and VS Code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "geppy <mail@geppy.me>",
+  "license": "MIT",
+  "devDependencies": {
+    "del": "^2.2.0",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-hub": "^0.7.1",
+    "gulp-typescript": "^2.13.3",
+    "typescript": "^1.8.10",
+    "typings": "^0.8.1"
+  }
+}

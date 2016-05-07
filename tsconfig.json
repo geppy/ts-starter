@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "sourceMap": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "forceConsistentCasingInFileNames": true,
+    "noFallthroughCasesInSwitch": true,
+    "noEmitOnError": true,
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "preserveConstEnums": true,
+    "suppressExcessPropertyErrors": false,
+    "suppressImplicitAnyIndexErrors": true
+  },
+  "exclude": [
+    ".tmp-test-dest",
+    ".tmp-serve",
+    ".tmp-tools",
+    ".tmp*",
+    "node_modules",
+    "release",
+    "tasks",
+    "typings/browser",
+    "typings/browser.d.ts"
+  ]
+}
